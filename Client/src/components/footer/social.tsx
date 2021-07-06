@@ -54,7 +54,7 @@ const SocialNetworkWrapper = styled.ul`
   display: flex;
   margin: 0 auto;
   li {
-    margin-right: 32px;
+    margin: 0 20px;
       @media(max-width: 740px){
       margin: 0 10px;
   }
