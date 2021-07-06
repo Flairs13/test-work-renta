@@ -1,5 +1,5 @@
 {
-  "port": 5000,
+  "port": 80,
   "mongoUri": "mongodb+srv://flairs13:ylwo1y52jl13@cluster0.ala3t.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "http://test-work-renta.site"
 }
