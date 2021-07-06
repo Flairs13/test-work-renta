@@ -30,6 +30,9 @@ const SectionList = styled.ul`
   li:nth-of-type(3),
   li:nth-of-type(4) {
     margin-left: auto;
+    a {
+      text-align: end;
+    }
   }
    @media(max-width: 780px){
       grid-template-columns: repeat(4,1fr);
